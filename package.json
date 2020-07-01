@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/newjersey/career-network-resources-proxy#readme",
   "devDependencies": {
-    "firebase-tools": "^7.11.0"
+    "firebase-tools": "^7.16.2"
   }
 }
